@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "CN-E-Commute",
+    "slug": "CN-E-Commute"
+  }
+}
